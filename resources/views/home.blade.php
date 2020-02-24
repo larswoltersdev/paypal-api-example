@@ -11,7 +11,7 @@
             </div>
         @endif
 
-        @if ($errors->any())
+        @if(Session::has('error'))
             <div class="alert alert-warning" uk-alert>
                 {{ Session::get('error') }}
                 @php
