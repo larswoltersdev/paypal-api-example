@@ -1,4 +1,4 @@
-# PayPal REST API
+# About this project
 
 **Note: this project is pretty outdated and the current PayPal API works differently than applied in here.**
 
